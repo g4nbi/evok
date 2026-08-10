@@ -1,0 +1,194 @@
+1. LAYANAN STREAMING FILM & VIDEO (OTT)
+==================================================
+📌 NETFLIX  
+ Varian: 1 Perangkat
+• Jumlah Member: 4 Member / Akun
+• Tarif Dasar: Rp 47.500 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 47.500
+ 2 Bulan: Rp 95.000
+ 3 Bulan: Rp 142.500
+ 6 Bulan: Rp 285.000
+ Varian: 2 Perangkat
+• Jumlah Member: 2 Member / Akun
+• Tarif Dasar: Rp 95.000 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 95.000
+ 2 Bulan: Rp 190.000
+ 3 Bulan: Rp 285.000
+ 6 Bulan: Rp 570.000
+ Varian: 5 Perangkat
+• Jumlah Member: 1 Member / Akun
+• Tarif Dasar: Rp 195.000 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 195.000
+ 2 Bulan: Rp 390.000
+ 3 Bulan: Rp 585.000
+ 6 Bulan: Rp 1.170.000
+ Varian: User Reguler TV
+• Jumlah Member: 4 Member / Akun
+• Tarif Dasar: Rp 61.000 / bulan
+• Rincian Total Harga:
+ 2 Bulan: Rp 122.000
+ 3 Bulan: Rp 183.000
+ 6 Bulan: Rp 366.000
+ Varian: User Host TV
+• Jumlah Member: 4 Member / Akun
+• Tarif Dasar: Rp 57.500 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 57.500
+ Varian: User Reguler Non-TV
+• Jumlah Member: 4 Member / Akun
+• Tarif Dasar: Rp 54.000 / bulan
+• Rincian Total Harga:
+ 2 Bulan: Rp 108.000
+ 3 Bulan: Rp 162.000
+ 6 Bulan: Rp 324.000
+ Varian: User Host Non-TV
+• Jumlah Member: 4 Member / Akun
+• Tarif Dasar: Rp 47.500 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 47.500
+📌 DISNEY+ HOTSTAR  
+ Varian: 1 Bulan (Reguler)
+• Jumlah Member: 3 Member / Akun
+• Tarif Dasar: Rp 36.000 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 36.000
+ 2 Bulan: Rp 72.000
+ 3 Bulan: Rp 108.000
+ 6 Bulan: Rp 216.000
+ Varian: 12 Bulan (Tahunan)
+• Jumlah Member: 3 Member / Akun
+• Tarif Dasar: Rp 24.416 / bulan
+• Rincian Total Harga:
+ 12 Bulan: Rp 292.992
+ Varian: User Host Tahunan
+• Jumlah Member: 2 Member / Akun
+• Tarif Dasar: Rp 99.500 / tahun
+• Rincian Total Harga:
+ 12 Bulan: Rp 99.500
+📌 MAX  
+ Varian: Bulanan
+• Jumlah Member: 4 Member / Akun
+• Tarif Dasar: Rp 39.000 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 39.000
+ 3 Bulan: Rp 117.000
+ 6 Bulan: Rp 234.000
+ Varian: Tahunan
+• Jumlah Member: 4 Member / Akun
+• Tarif Dasar: Rp 39.000 / bulan
+• Rincian Total Harga:
+ 12 Bulan: Rp 468.000
+📌 PRIME VIDEO  
+ Varian: Bulanan
+• Jumlah Member: 3 Member / Akun
+• Tarif Dasar: Rp 32.500 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 32.500
+ 2 Bulan: Rp 65.000
+ 3 Bulan: Rp 97.500
+📌 VIDIO PREMIER  
+ Varian: Bulanan
+• Jumlah Member: 2 Member / Akun
+• Tarif Dasar: Rp 35.000 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 35.000
+ 2 Bulan: Rp 70.000
+ 3 Bulan: Rp 105.000
+ 6 Bulan: Rp 210.000
+📌 VIU PREMIUM  
+ Varian: Bulanan
+• Jumlah Member: 4 Member / Akun
+• Tarif Dasar: Rp 27.500 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 27.500
+ 2 Bulan: Rp 55.000
+ 3 Bulan: Rp 82.500
+📌 VIU PREMIUM PLUS  
+ Varian: Bulanan
+• Jumlah Member: 4 Member / Akun
+• Tarif Dasar: Rp 48.000 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 48.000
+📌 IQIYI VIP  
+ Varian: Bulanan
+• Jumlah Member: 4 Member / Akun
+• Tarif Dasar: Rp 19.500 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 19.500
+ 2 Bulan: Rp 39.000
+ 3 Bulan: Rp 58.500
+ 6 Bulan: Rp 117.000
+📌 WETV VIP  
+ Varian: Bulanan
+• Jumlah Member: 3 Member / Akun
+• Tarif Dasar: Rp 25.000 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 25.000
+📌 CATCHPLAY+  
+ Varian: Bulanan
+• Jumlah Member: 5 Member / Akun
+• Tarif Dasar: Rp 25.000 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 25.000
+ 2 Bulan: Rp 50.000
+ 3 Bulan: Rp 75.000
+ 6 Bulan: Rp 150.000
+📌 YOUKU PREMIUM  
+ Varian: Bulanan
+• Jumlah Member: 5 Member / Akun
+• Tarif Dasar: Rp 25.000 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 25.000
+ 2 Bulan: Rp 50.000
+ 3 Bulan: Rp 75.000
+ 6 Bulan: Rp 150.000
+📌 VISION+ ULTIMATE  
+ Varian: 1 Perangkat
+• Jumlah Member: 3 Member / Akun
+• Tarif Dasar: Rp 25.500 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 25.500
+==================================================
+2. LAYANAN STREAMING MUSIK & AUDIO
+📌 SPOTIFY PREMIUM  
+ Varian: User Reguler
+• Jumlah Member: 3 Member / Akun
+• Tarif Dasar: Rp 43.300 / bulan
+• Rincian Total Harga:
+ 2 Bulan: Rp 86.600
+ 3 Bulan: Rp 129.900
+ 6 Bulan: Rp 259.800
+ Varian: Promo 3 & 6 Bulan
+• Jumlah Member: 3 Member / Akun
+• Tarif Dasar: Rp 43.334 / bulan
+• Rincian Total Harga:
+ 3 Bulan: Rp 130.002
+ 6 Bulan: Rp 260.004
+ Varian: Promo 12 Bulan
+• Jumlah Member: 3 Member / Akun
+• Tarif Dasar: Rp 43.417 / bulan
+• Rincian Total Harga:
+ 12 Bulan: Rp 521.004
+ Varian: User Host
+• Jumlah Member: 3 Member / Akun
+• Tarif Dasar: Rp 35.113 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 35.113
+📌 SPOTIFY PLATINUM
+ Varian: Reguler
+• Jumlah Member: 3 Member / Akun
+• Tarif Dasar: Rp 48.000 / bulan
+• Rincian Total Harga:
+ 2 Bulan: Rp 96.000  
+ 3 Bulan: Rp 144.000
+ 6 Bulan: Rp 288.000
+ Varian: User Host
+• Jumlah Member: 3 Member / Akun
+• Tarif Dasar: Rp 39.967 / bulan
+• Rincian Total Harga:
+ 1 Bulan: Rp 39.967
+ 2 Bulan: Rp 79.934
+ 3 Bulan: Rp 119.901

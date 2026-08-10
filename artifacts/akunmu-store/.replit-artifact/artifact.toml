@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Akunmu Store"
+description = "Katalog langganan digital yang cepat dan minimalis untuk membandingkan paket streaming, produktivitas, dan tools premium lalu memesan paket pilihan melalui WhatsApp."
+version = "1.0.0"
+id = "artifacts/akunmu-store"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 25613
+
+[services.development]
+run = "pnpm --filter @workspace/akunmu-store run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/akunmu-store", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/akunmu-store/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25613"
+BASE_PATH = "/"

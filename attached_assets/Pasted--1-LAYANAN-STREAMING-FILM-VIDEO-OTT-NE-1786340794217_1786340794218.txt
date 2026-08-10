@@ -1,0 +1,207 @@
+
+* 		1.LAYANAN STREAMING FILM & VIDEO (OTT) ==================================================
+📌 NETFLIX
+* 		Varian: 1 Perangkat • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 47.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 47.500
+* 		2 Bulan: Rp 95.000
+* 		3 Bulan: Rp 142.500
+* 		6 Bulan: Rp 285.000
+* 		Varian: 2 Perangkat • Jumlah Member: 2 Member / Akun • Tarif Dasar: Rp 95.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 95.000
+* 		2 Bulan: Rp 190.000
+* 		3 Bulan: Rp 285.000
+* 		6 Bulan: Rp 570.000
+* 		Varian: 5 Perangkat • Jumlah Member: 1 Member / Akun • Tarif Dasar: Rp 195.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 195.000
+* 		2 Bulan: Rp 390.000
+* 		3 Bulan: Rp 585.000
+* 		6 Bulan: Rp 1.170.000
+* 		Varian: User Reguler TV • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 61.000 / bulan • Rincian Total Harga:
+* 		2 Bulan: Rp 122.000
+* 		3 Bulan: Rp 183.000
+* 		6 Bulan: Rp 366.000
+* 		Varian: User Host TV • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 57.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 57.500
+* 		Varian: User Reguler Non-TV • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 54.000 / bulan • Rincian Total Harga:
+* 		2 Bulan: Rp 108.000
+* 		3 Bulan: Rp 162.000
+* 		6 Bulan: Rp 324.000
+* 		Varian: User Host Non-TV • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 47.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 47.500
+📌 DISNEY+ HOTSTAR
+* 		Varian: 1 Bulan (Reguler) • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 36.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 36.000
+* 		2 Bulan: Rp 72.000
+* 		3 Bulan: Rp 108.000
+* 		6 Bulan: Rp 216.000
+* 		Varian: 12 Bulan (Tahunan) • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 24.416 / bulan • Rincian Total Harga:
+* 		12 Bulan: Rp 292.992
+* 		Varian: User Host Tahunan • Jumlah Member: 2 Member / Akun • Tarif Dasar: Rp 99.500 / tahun • Rincian Total Harga:
+* 		12 Bulan: Rp 99.500
+📌 MAX
+* 		Varian: Bulanan • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 39.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 39.000
+* 		3 Bulan: Rp 117.000
+* 		6 Bulan: Rp 234.000
+* 		Varian: Tahunan • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 39.000 / bulan • Rincian Total Harga:
+* 		12 Bulan: Rp 468.000
+📌 PRIME VIDEO
+* 		Varian: Bulanan • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 32.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 32.500
+* 		2 Bulan: Rp 65.000
+* 		3 Bulan: Rp 97.500
+📌 VIDIO PREMIER
+* 		Varian: Bulanan • Jumlah Member: 2 Member / Akun • Tarif Dasar: Rp 35.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 35.000
+* 		2 Bulan: Rp 70.000
+* 		3 Bulan: Rp 105.000
+* 		6 Bulan: Rp 210.000
+📌 VIU PREMIUM
+* 		Varian: Bulanan • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 27.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 27.500
+* 		2 Bulan: Rp 55.000
+* 		3 Bulan: Rp 82.500
+📌 VIU PREMIUM PLUS
+* 		Varian: Bulanan • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 48.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 48.000
+📌 IQIYI VIP
+* 		Varian: Bulanan • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 19.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 19.500
+* 		2 Bulan: Rp 39.000
+* 		3 Bulan: Rp 58.500
+* 		6 Bulan: Rp 117.000
+📌 WETV VIP
+* 		Varian: Bulanan • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 25.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 25.000
+📌 CATCHPLAY+
+* 		Varian: Bulanan • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 25.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 25.000
+* 		2 Bulan: Rp 50.000
+* 		3 Bulan: Rp 75.000
+* 		6 Bulan: Rp 150.000
+📌 YOUKU PREMIUM
+* 		Varian: Bulanan • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 25.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 25.000
+* 		2 Bulan: Rp 50.000
+* 		3 Bulan: Rp 75.000
+* 		6 Bulan: Rp 150.000
+📌 VISION+ ULTIMATE
+* 		Varian: 1 Perangkat • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 25.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 25.500
+================================================== 2. LAYANAN STREAMING MUSIK & AUDIO
+📌 SPOTIFY PREMIUM
+* 		Varian: User Reguler • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 43.300 / bulan • Rincian Total Harga:
+* 		2 Bulan: Rp 86.600
+* 		3 Bulan: Rp 129.900
+* 		6 Bulan: Rp 259.800
+* 		Varian: Promo 3 & 6 Bulan • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 43.334 / bulan • Rincian Total Harga:
+* 		3 Bulan: Rp 130.002
+* 		6 Bulan: Rp 260.004
+* 		Varian: Promo 12 Bulan • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 43.417 / bulan • Rincian Total Harga:
+* 		12 Bulan: Rp 521.004
+* 		Varian: User Host • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 35.113 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 35.113
+📌 SPOTIFY PLATINUM
+* 		Varian: Reguler • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 48.000 / bulan • Rincian Total Harga:
+* 		2 Bulan: Rp 96.000
+* 		3 Bulan: Rp 144.000
+* 		6 Bulan: Rp 288.000
+* 		Varian: User Host • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 39.967 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 39.967
+* 		2 Bulan: Rp 79.934
+* 		3 Bulan: Rp 119.901
+📌 APPLE MUSIC
+* 		Varian: Bulanan • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 25.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 25.000
+* 		2 Bulan: Rp 50.000
+* 		3 Bulan: Rp 75.000
+* 		6 Bulan: Rp 150.000
+================================================== 3. ALAT AI, DESAIN & PRODUKTIVITAS
+📌 CHATGPT PLUS
+* 		Varian: 1 Perangkat • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 79.900 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 79.900 * 3 Bulan: Rp 239.700
+* 		6 Bulan: Rp 479.400
+📌 GOOGLE GEMINI
+* 		Varian: Bulanan (Advanced) • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 76.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 76.500
+* 		Varian: Tahunan • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 75.317 / bulan • Rincian Total Harga:
+* 		12 Bulan: Rp 903.804
+📌 MICROSOFT 365
+* 		Varian: Bulanan • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 41.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 41.000
+📌 CANVA PRO
+* 		Varian: Bulanan Host • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 73.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 73.000
+* 		3 Bulan: Rp 219.000
+* 		6 Bulan: Rp 438.000
+* 		Varian: Bulanan Reguler • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 79.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 79.500
+* 		3 Bulan: Rp 238.500
+* 		6 Bulan: Rp 477.000
+📌 CAPCUT PRO
+* 		Varian: Bulanan Desktop • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 54.500 / bulan • Rincian Total Harga:
+* 		2 Bulan: Rp 109.000
+* 		Varian: Tahunan Desktop • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 399.000 / tahun • Rincian Total Harga:
+* 		12 Bulan: Rp 399.000
+* 		Varian: Bulanan Mobile • Jumlah Member: 2 Member / Akun • Tarif Dasar: Rp 86.500 / bulan • Rincian Total Harga:
+* 		2 Bulan: Rp 173.000
+* 		Varian: Tahunan Mobile • Jumlah Member: 2 Member / Akun • Tarif Dasar: Rp 567.000 / tahun • Rincian Total Harga:
+* 		12 Bulan: Rp 567.000
+📌 ZOOM PRO
+* 		Varian: Bulanan • Jumlah Member: 3 Member / Akun • Tarif Dasar: Rp 68.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 68.000
+* 		2 Bulan: Rp 136.000
+* 		3 Bulan: Rp 204.000
+* 		6 Bulan: Rp 408.000
+================================================== 4. EKOSISTEM CLOUD, KEAMANAN & EDUKASI
+📌 APPLE ONE
+* 		Varian: Reguler Bulanan • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 46.000 / bulan • Rincian Total Harga:
+* 		3 Bulan: Rp 138.000
+* 		6 Bulan: Rp 276.000
+* 		Varian: Host Bulanan • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 39.800 / bulan • Rincian Total Harga:
+* 		3 Bulan: Rp 119.400
+* 		6 Bulan: Rp 238.800
+📌 APPLE ONE PREMIER
+* 		Varian: Bulanan Reguler • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 69.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 69.500
+* 		3 Bulan: Rp 208.500
+* 		6 Bulan: Rp 417.000
+* 		Varian: Bulanan Host • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 63.800 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 63.800
+* 		3 Bulan: Rp 191.400
+* 		6 Bulan: Rp 382.800
+📌 GOOGLE ONE
+* 		Varian: Bulanan • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 41.000 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 41.000
+* 		2 Bulan: Rp 82.000
+* 		3 Bulan: Rp 123.000
+* 		6 Bulan: Rp 246.000
+* 		Varian: Tahunan • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 40.000 / bulan • Rincian Total Harga:
+* 		12 Bulan: Rp 480.000
+📌 NORDVPN
+* 		Varian: Bulanan • Jumlah Member: 6 Member / Akun • Tarif Dasar: Rp 54.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 54.500
+* 		3 Bulan: Rp 163.500
+* 		6 Bulan: Rp 327.000
+* 		Varian: Tahunan (Pre-Order) • Jumlah Member: 6 Member / Akun • Tarif Dasar: Rp 306.000 / tahun • Rincian Total Harga:
+* 		12 Bulan: Rp 306.000
+📌 DUOLINGO SUPER
+* 		Varian: Tahunan • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 41.000 / tahun • Rincian Total Harga:
+* 		12 Bulan: Rp 41.000
+📌 CRUNCHYROLL
+* 		Varian: Bulanan • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 15.000 / bulan • Rincian Total Harga:
+* 		12 Bulan: Rp 180.000
+* 		Varian: Tahunan • Jumlah Member: 4 Member / Akun • Tarif Dasar: Rp 12.500 / bulan • Rincian Total Harga:
+* 		12 Bulan: Rp 150.000
+================================================== 5. PAKET BUNDLING LINTAS PLATFORM
+📌 BUNDLING SPOTIFY X NETFLIX
+* 		Varian: Promo BH6K • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 118.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 118.500
+* 		3 Bulan: Rp 355.500
+📌 BUNDLING DISNEY X NETFLIX
+* 		Varian: Promo BH7K • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 81.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 81.500
+📌 BUNDLING YOUTUBE X NETFLIX
+* 		Varian: Promo BH12K • Jumlah Member: 5 Member / Akun • Tarif Dasar: Rp 83.500 / bulan • Rincian Total Harga:
+* 		1 Bulan: Rp 83.500
+* 		3 Bulan: Rp 250.500
